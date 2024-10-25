@@ -11,69 +11,88 @@ ExploreEase is a travel and camping app designed to help users discover nature s
 
 ## Screenshots
 
-- Here are some screenshots of the ExploreEase app in action:
+Here are some screenshots of the ExploreEase app in action:
 
-### Home Page
-![Home Page](assets/screenshots/home_page.png)
-*Home Page showing featured places.*
-
-### Add Place Page
-![Add Place Page](assets/screenshots/add_place_page.png)
-*Add New Place page where users can submit new locations.*
-
-### Add Review Page
-![Add Review Page](assets/screenshots/add_review_page.png)
-*Add Review page for users to leave feedback on places.*
-
-### Bookmark Page
-![Bookmark Page](assets/screenshots/bookmark_page.png)
-*Bookmark Page for saving favorite places.*
-
-### Category Page
-![Category Page](assets/screenshots/category_page.png)
-*Category Page for exploring different landscape types.*
+### Splash Screens
+<div style="display: flex; justify-content: space-around;">
+    <img src="assets/screenshots/splash_page_1.png" alt="Splash Page 1" width="300" style="margin: 10px;"/>
+    <img src="assets/screenshots/splash_page_2.png" alt="Splash Page 2" width="300" style="margin: 10px;"/>
+    <img src="assets/screenshots/splash_page_3.png" alt="Splash Page 3" width="300" style="margin: 10px;"/>
+</div>
+*Splash Pages displayed on app launch.*
 
 ### Login Page
-![Login Page](assets/screenshots/login_page.png)
+<div style="display: flex; justify-content: space-around;">
+    <img src="assets/screenshots/login_page.png" alt="Login Page" width="300" style="margin: 10px;"/>
+</div>
 *Login Page for user authentication.*
 
-### Notification Page
-![Notification Page](assets/screenshots/notification_page.png)
-*Notification Page for user alerts and messages.*
-
-### Place Details
-![Place Page 1](assets/screenshots/place_page_1.png)
-*Detailed view of a specific place.*
-
-![Place Page 2](assets/screenshots/place_page_2.png)
-*Another view of a specific place with additional details.*
-
-### Profile Page
-![Profile Page](assets/screenshots/profile_page.png)
-*Profile Page for user account management.*
-
-### Review Page
-![Review Page](assets/screenshots/review_page.png)
-*Review Page for viewing user feedback on places.*
-
-### Search Page
-![Search Page](assets/screenshots/search_page.png)
-*Search Page for finding specific places.*
-
 ### Signup Page
-![Signup Page](assets/screenshots/signup_page.png)
+<div style="display: flex; justify-content: space-around;">
+    <img src="assets/screenshots/signup_page.png" alt="Signup Page" width="300" style="margin: 10px;"/>
+</div>
 *Signup Page for new user registration.*
 
-### Splash Pages
-![Splash Page 1](assets/screenshots/splash_page_1.png)
-*Splash Page displayed on app launch.*
+### Home Page
+<div style="display: flex; justify-content: space-around;">
+    <img src="assets/screenshots/home_page.png" alt="Home Page" width="300" style="margin: 10px;"/>
+</div>
+*Home Page showing featured places.*
 
-![Splash Page 2](assets/screenshots/splash_page_2.png)
-*Another variant of the Splash Page.*
+### Search Page
+<div style="display: flex; justify-content: space-around;">
+    <img src="assets/screenshots/search_page.png" alt="Search Page" width="300" style="margin: 10px;"/>
+</div>
+*Search Page for finding specific places.*
 
-![Splash Page 3](assets/screenshots/splash_page_3.png)
-*Final variant of the Splash Page.*
+### Bookmark Page
+<div style="display: flex; justify-content: space-around;">
+    <img src="assets/screenshots/bookmark_page.png" alt="Bookmark Page" width="300" style="margin: 10px;"/>
+</div>
+*Bookmark Page for saving favorite places.*
 
+### Profile Page
+<div style="display: flex; justify-content: space-around;">
+    <img src="assets/screenshots/profile_page.png" alt="Profile Page" width="300" style="margin: 10px;"/>
+</div>
+*Profile Page for user account management.*
+
+### Category Page
+<div style="display: flex; justify-content: space-around;">
+    <img src="assets/screenshots/category_page.png" alt="Category Page" width="300" style="margin: 10px;"/>
+</div>
+*Category Page for exploring different landscape types.*
+
+### Notification Page
+<div style="display: flex; justify-content: space-around;">
+    <img src="assets/screenshots/notification_page.png" alt="Notification Page" width="300" style="margin: 10px;"/>
+</div>
+*Notification Page for user alerts and messages.*
+
+### Add Place Page
+<div style="display: flex; justify-content: space-around;">
+    <img src="assets/screenshots/add_place_page.png" alt="Add Place Page" width="300" style="margin: 10px;"/>
+</div>
+*Add New Place page where users can submit new locations.*
+
+### Place Details
+<div style="display: flex; justify-content: space-around;">
+    <img src="assets/screenshots/place_page_1.png" alt="Place Page 1" width="300" style="margin: 10px;"/>
+    <img src="assets/screenshots/place_page_2.png" alt="Place Page 2" width="300" style="margin: 10px;"/>
+</div>
+*Detailed views of a specific place.*
+
+### Review Page
+<div style="display: flex; justify-content: space-around;">
+    <img src="assets/screenshots/review_page.png" alt="Review Page" width="300" style="margin: 10px;"/>
+</div>
+*Review Page for viewing user feedback on places.*
+
+### Add Review Page
+<div style="display: flex; justify-content: space-around;">
+    <img src="assets/screenshots/add_review_page.png" alt="Add Review Page" width="300" style="margin: 10px;"/>
+</div>
+*Add Review page for users to leave feedback on places.*
 
 ## Tech Stack
 
