@@ -99,7 +99,7 @@ class AddCommentCard extends StatelessWidget {
       actions: [
         SizedBox(
           height: 40.0,
-          width: 135.0,
+          width: 125.0,
           child: TextButton(
             onPressed: () {
               Navigator.pop(context);
@@ -129,7 +129,7 @@ class AddCommentCard extends StatelessWidget {
         ),
         SizedBox(
           height: 40.0,
-          width: 135.0,
+          width: 125.0,
           child: TextButton(
             onPressed: () {},
             style: ButtonStyle(

@@ -9,6 +9,72 @@ ExploreEase is a travel and camping app designed to help users discover nature s
 - **Review and Rate**: Share your experience by rating and reviewing places you’ve visited.
 - **User Authentication**: Sign up, log in, and manage your account.
 
+## Screenshots
+
+- Here are some screenshots of the ExploreEase app in action:
+
+### Home Page
+![Home Page](assets/screenshots/home_page.png)
+*Home Page showing featured places.*
+
+### Add Place Page
+![Add Place Page](assets/screenshots/add_place_page.png)
+*Add New Place page where users can submit new locations.*
+
+### Add Review Page
+![Add Review Page](assets/screenshots/add_review_page.png)
+*Add Review page for users to leave feedback on places.*
+
+### Bookmark Page
+![Bookmark Page](assets/screenshots/bookmark_page.png)
+*Bookmark Page for saving favorite places.*
+
+### Category Page
+![Category Page](assets/screenshots/category_page.png)
+*Category Page for exploring different landscape types.*
+
+### Login Page
+![Login Page](assets/screenshots/login_page.png)
+*Login Page for user authentication.*
+
+### Notification Page
+![Notification Page](assets/screenshots/notification_page.png)
+*Notification Page for user alerts and messages.*
+
+### Place Details
+![Place Page 1](assets/screenshots/place_page_1.png)
+*Detailed view of a specific place.*
+
+![Place Page 2](assets/screenshots/place_page_2.png)
+*Another view of a specific place with additional details.*
+
+### Profile Page
+![Profile Page](assets/screenshots/profile_page.png)
+*Profile Page for user account management.*
+
+### Review Page
+![Review Page](assets/screenshots/review_page.png)
+*Review Page for viewing user feedback on places.*
+
+### Search Page
+![Search Page](assets/screenshots/search_page.png)
+*Search Page for finding specific places.*
+
+### Signup Page
+![Signup Page](assets/screenshots/signup_page.png)
+*Signup Page for new user registration.*
+
+### Splash Pages
+![Splash Page 1](assets/screenshots/splash_page_1.png)
+*Splash Page displayed on app launch.*
+
+![Splash Page 2](assets/screenshots/splash_page_2.png)
+*Another variant of the Splash Page.*
+
+![Splash Page 3](assets/screenshots/splash_page_3.png)
+*Final variant of the Splash Page.*
+
+
 ## Tech Stack
 
 - **Frontend Framework**: Flutter

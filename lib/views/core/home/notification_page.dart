@@ -45,13 +45,13 @@ class NotificationPage extends StatelessWidget {
                   NotificationCard(
                     admin: "Ihebowski",
                     isAccepted: true,
-                    message: "sdsd",
+                    message: "",
                   ),
                   SizedBox(height: 10.0),
                   NotificationCard(
                     admin: "Azyz",
                     isAccepted: false,
-                    message: "dsdssd",
+                    message: "The place you have added already exists.",
                   ),
                 ],
               ),

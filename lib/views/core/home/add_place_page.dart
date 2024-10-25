@@ -1,5 +1,6 @@
 import 'dart:io';
 import 'package:exploreease/views/constants/colors.dart';
+import 'package:exploreease/views/core/landing_page.dart';
 import 'package:flutter/material.dart';
 import 'package:fluentui_system_icons/fluentui_system_icons.dart';
 import 'package:image_picker/image_picker.dart';
@@ -360,6 +361,38 @@ class _AddPlacePageState extends State<AddPlacePage> {
                         ],
                       ),
                     ],
+                  ),
+                  const SizedBox(height: 15),
+                  SizedBox(
+                    height: 60.0,
+                    width: double.infinity,
+                    child: TextButton(
+                      onPressed: () {
+                        Navigator.push(
+                          context,
+                          MaterialPageRoute(
+                            builder: (context) => const LandingPage(),
+                          ),
+                        );
+                      },
+                      style: ButtonStyle(
+                        shape: MaterialStateProperty.all<RoundedRectangleBorder>(
+                          RoundedRectangleBorder(
+                            borderRadius: BorderRadius.circular(10.0),
+                          ),
+                        ),
+                        elevation: const MaterialStatePropertyAll<double>(0.0),
+                        backgroundColor: const MaterialStatePropertyAll<Color>(primaryColor),
+                      ),
+                      child: const Text(
+                        "Add Place",
+                        style: TextStyle(
+                          fontWeight: FontWeight.normal,
+                          fontSize: 18.0,
+                          color: text3Color,
+                        ),
+                      ),
+                    ),
                   ),
                 ],
               ),
