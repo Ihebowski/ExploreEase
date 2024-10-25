@@ -109,7 +109,7 @@ Here are some screenshots of the ExploreEase app in action:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/ExploreEase.git
+   git clone https://github.com/Ihebowski/ExploreEase.git
    ```
 
 2. Navigate to the directory:
@@ -141,11 +141,6 @@ lib/
  ├── services/       # API calls and business logic
  └── main.dart       # Main entry point of the app
 ```
-
-## Features Under Development
-
-- **Search Functionality**: Ability to search for specific places by name or category.
-- **User Profile**: View and edit user profile details.
 
 ## Contributions
 
